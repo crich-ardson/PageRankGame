@@ -1,0 +1,3 @@
+Code authored by: Cameron Richardson
+
+This code serves as the culmination of a final project for my Fall 2018 Algorithms course at Boston College. My groupmates Derek Xu, Adonnis Andrade, and I designed a game to demonstrate the power and usefulness of the PageLink algorithm employed in Google and other web searching tools. It takes data from a Wikipedia dump, which uses its own form of PageLink, to construct a simple guessing game where the score is dynamically calculated based on the algorithm.
